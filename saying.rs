@@ -1,4 +1,3 @@
-rust.rs linguist-language=Rust
 use std::collections::VecDeque;
 use std::fmt;
 
