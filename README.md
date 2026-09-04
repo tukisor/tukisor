@@ -1,4 +1,4 @@
-## *Maximiliano "TukiSor" Soto*
+## *Maximiliano "Serán thiel"Soto*
 
 Animador 3d MA Blender +2 Años
 
